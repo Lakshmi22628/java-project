@@ -1,0 +1,8 @@
+.env
+.env.*
+*.local
+target/
+.idea/
+.vscode/
+new-project-vaultx/
+project-review/
